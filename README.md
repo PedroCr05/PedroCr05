@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroCr05
+- 👋 Hi, I’m Pedro Oswaldo Cruz
 - 👀 I’m interested in Software Enginneering (Both front end and back end)
 - 🌱 I’m currently learning HTML, CSS, & NodeJS over at GA~! :D
 - 💞️ I’m looking to collaborate on anything! I want to learn more.
